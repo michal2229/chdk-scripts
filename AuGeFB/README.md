@@ -1,4 +1,4 @@
-## README
+## AuGeFB - automatic geometric focus bracketing
 
 A script I wrote in February 2012 for taking a series of pictures with variable focus length: it starts close to lens and goes farther in a manner described by geometric series.
 
