@@ -4,6 +4,6 @@ A script I wrote in February 2012 for taking a series of pictures with variable 
 
 Example videos:
 
-(example video 1)[https://youtu.be/aSb605vpHbg]
+[example video 1](https://youtu.be/aSb605vpHbg)
 
-(example video 2)[https://youtu.be/3AIfEe1EeSM]
+[example video 2](https://youtu.be/3AIfEe1EeSM)
